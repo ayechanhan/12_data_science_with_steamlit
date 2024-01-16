@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import time
 
-st.header("Widgets (Button, Download Button, Checkbox, Radio, Selectbox)")
+st.header("Widgets - 1(Button, Download Button, Checkbox, Radio, Selectbox)")
 
 st.subheader("Button")
 btn = st.button("Click Me!!")
